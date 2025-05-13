@@ -5,6 +5,7 @@ from config import mongo_uri
 import re
 from bson import ObjectId
 import json
+import os
 
 app = FastAPI(title="SOF Week API", description="API for querying SOF Week attendee data")
 
@@ -25,14 +26,39 @@ def mongo_doc_to_json(doc):
             doc_dict[k] = str(v)
     return doc_dict
 
-# Connect to MongoDB with SSL options
-try:
-    client = MongoClient(mongo_uri, ssl=True, tlsAllowInvalidCertificates=True)
-    db = client["usul"]
-    collection = db["sofweek_agenda"]
-except Exception as e:
-    print(f"MongoDB connection error: {str(e)}")
-    raise
+# Global client variable
+client = None
+db = None
+collection = None
+
+# Function to get MongoDB connection
+def get_db():
+    global client, db, collection
+    if client is None:
+        try:
+            client = MongoClient(mongo_uri, ssl=True, tlsAllowInvalidCertificates=True)
+            db = client["usul"]
+            collection = db["sofweek_agenda"]
+            # Test connection
+            db.command('ping')
+            print("Successfully connected to MongoDB")
+        except Exception as e:
+            print(f"MongoDB connection error: {str(e)}")
+            raise
+    return collection
+
+# Connect on startup
+@app.on_event("startup")
+async def startup_db_client():
+    get_db()
+
+# Close connection on shutdown
+@app.on_event("shutdown")
+async def shutdown_db_client():
+    global client
+    if client:
+        client.close()
+        print("MongoDB connection closed")
 
 # Function to get all documents
 async def get_all_documents() -> List[Dict[str, Any]]:
@@ -40,6 +66,7 @@ async def get_all_documents() -> List[Dict[str, Any]]:
     Get all documents from the collection
     """
     try:
+        collection = get_db()
         cursor = collection.find({})
         results = [mongo_doc_to_json(doc) for doc in cursor]
         return results
@@ -56,6 +83,7 @@ async def search_collection(field: str, query: str) -> List[Dict[str, Any]]:
         return await get_all_documents()
         
     try:
+        collection = get_db()
         # Create case-insensitive regex pattern for partial matching
         regex_pattern = re.compile(f".*{re.escape(query)}.*", re.IGNORECASE)
         
@@ -108,4 +136,6 @@ async def filter_by_bio(query: Optional[str] = ""):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    # Get port from environment variable or use default
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
