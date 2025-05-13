@@ -1,0 +1,831 @@
+[
+  {
+    "name": "Captain Donald G. Wetherbee",
+    "position": "Commodore, Naval Special Warfare Group 2",
+    "organization": "U.S. Navy",
+    "bio": "A career SEAL officer, Capt. Wetherbee commands NSWG-2—the East-Coast SEAL teams—after multiple operational tours at Naval Special Warfare units and staff billets across USSOCOM. He has led deployments supporting combat operations from Iraq and Afghanistan to Africa and the Pacific. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "name": "Captain Jared W. Wyrick",
+    "position": "Program Executive Officer, PEO Maritime (M)",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Capt. Wyrick is the Navy’s senior acquisition officer for SOF surface- and subsurface-mobility programs. A submariner by background, his sea tours included USS Alabama (SSBN-731) before transitioning to program management roles that culminated in leading USSOCOM’s $3 B maritime portfolio. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "name": "Colonel Alphanso “Fonz” Adams",
+    "position": "Senior Military Fellow (Cyber Operations)",
+    "organization": "Hoover Institution, Stanford University",
+    "bio": "Col. Adams is an Air Force cyberspace-operations officer with 25 years in network defense, rapid capability development, and joint special-operations communications; previous posts include AFSOC and the Air Force Rapid Capabilities Office. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "name": "Colonel Amanda Robbins",
+    "position": "Command Psychologist",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Col. Robbins oversees behavioral-health programs for the SOF enterprise. She advocates mindfulness and resilience practices and has published on operator readiness and trauma mitigation. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "name": "Colonel Antonio di Leonardo",
+    "position": "Senior Operations Officer",
+    "organization": "U.S. Army",
+    "bio": "Col. di Leonardo is a Cavalry officer with combat tours in Iraq and Afghanistan; he currently advises on irregular-warfare integration. (Public résumé—LinkedIn). :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "name": "Colonel Christopher Paone",
+    "position": "Director, Global Logistics & Sustainment (J4)",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Col. Paone directs joint logistics strategy and sustainment for worldwide SOF operations, drawing on 20 years of operational logistics and battalion command. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "name": "Colonel Clarence E. Burton Jr.",
+    "position": "Director of Procurement",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Col. Burton heads USSOCOM’s contracting enterprise, overseeing $8 B+ in annual obligations that equip 70,000 SOF personnel. (DoD senior-service record). :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "name": "Colonel Jesse Marsalis",
+    "position": "Program Executive Officer, PEO SOF Support Activity (SOFSA)",
+    "organization": "U.S. Special Operations Command",
+    "bio": "An Army acquisition officer and helicopter pilot, Col. Marsalis leads the $8 B, 10-year SOF Global Logistics Support Services contract and all expeditionary sustainment for SOF aviation and ground fleets. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "name": "Colonel Mark Cleary",
+    "position": "Project Manager, Technology Applications Program Office",
+    "organization": "U.S. Special Operations Command",
+    "bio": "A master Army aviator and experimental test pilot, Col. Cleary manages advanced rotary-wing modernization—including the MH-47G Chinook and MH-60M—ensuring SOF aviation’s technological edge. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "name": "Colonel Naoto Kuwahara",
+    "position": "Commander",
+    "organization": "Japan Ground Self-Defense Force Special Operations Group",
+    "bio": "Col. Kuwahara leads Japan’s national-level SOF formation and partners closely with USSOCOM; he has commanded JGSDF paratrooper and ranger units and holds U.S. Ranger and Pathfinder tabs. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "name": "Colonel Ramsey Oliver",
+    "position": "Program Executive Officer, PEO SOF Warrior",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Col. “Ramsey” Oliver oversees a $1 B portfolio of ground-mobility, weapons, munitions and operator-equipment programs supporting SOF units worldwide. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "name": "Colonel Rhea Pritchett",
+    "position": "Program Executive Officer, PEO SOF Digital Applications (SDA)",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Col. Pritchett heads USSOCOM’s newest software-centric PEO, charged with data-centric mission-command, AI/ML, and autonomy applications across the SOF enterprise. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "name": "Colonel Stephen Murphy",
+    "position": "Commander & District Engineer, New Orleans District",
+    "organization": "U.S. Army Corps of Engineers",
+    "bio": "Col. Murphy commands one of the Corps’ largest civil-works districts, directing $1.2 B in flood-risk-reduction and navigation projects across Louisiana and the Gulf Coast. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "name": "Colonel T. Justin Bronder",
+    "position": "Flight-Test Engineer (Reserve) / Former PEO Fixed Wing (Acting)",
+    "organization": "U.S. Air Force Reserve",
+    "bio": "Col. Bronder has led SOF-peculiar fixed-wing programs—AC-130J Ghostrider, MQ-9 enterprise—and currently serves as a senior developmental-test officer in the Air Force Reserve. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "name": "Colonel Wesley Knight",
+    "position": "Division Chief, Counter-UAS (C-UXS)",
+    "organization": "U.S. Special Operations Command",
+    "bio": "Col. Knight, an Army strategist with SOF operational tours, heads SOCOM’s counter-unmanned-systems division, synchronizing detection and defeat technologies across the force. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "name": "Command Sergeant Major (Ret.) Matt Kitchin",
+    "position": "Former Commandant, JSOU Enlisted Academy",
+    "organization": "Joint Special Operations University",
+    "bio": "After 27 years in Army Special Forces culminating as Enlisted Academy commandant, CSM (R) Kitchin now advises the Global SOF Foundation and speaks on operator transition and leadership. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "name": "Command Sergeant Major Shane Shorter",
+    "position": "Senior Enlisted Leader",
+    "organization": "U.S. Special Operations Command",
+    "bio": "CSM Shorter is the highest-ranking enlisted member in USSOCOM. A career Green Beret, he previously served as CSEL at Special Operations Command-Pacific and led 1st SFG(A). :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "name": "Commander Mike Ameche",
+    "position": "Maritime Operations Officer (Special Boat Teams)",
+    "organization": "U.S. Navy Special Warfare",
+    "bio": "A surface-warfare and special-boat officer, Cmdr. Ameche gained recognition during Joint Special Operations Task Force–Philippines humanitarian operations and has since commanded NSW boat detachments worldwide. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "name": "Dr. Anna Simons",
+    "position": "Professor Emerita of Defense Analysis",
+    "organization": "Naval Postgraduate School",
+    "bio": "An anthropologist specializing in irregular warfare and cross-cultural advising, Dr. Simons has written seminal books on clan politics in Somalia and on Special Forces advisory missions; she teaches SOF leaders on culture and strategy. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "name": "Dr. M. David Rudd, Ph.D., ABPP",
+    "position": "Distinguished Professor of Psychology & Founding Director, Rudd Institute for Veteran and Military Suicide Prevention",
+    "organization": "University of Memphis",
+    "bio": "Former President of the University of Memphis and a former Army clinical psychologist, Dr. Rudd is internationally known for developing the ‘fluid vulnerability’ theory of suicide risk and evidence-based interventions for military populations. :contentReference[oaicite:19]{index=19}"
+  },
+    {
+      "name": "Dr. Joseph (Joe) Bonvie, PsyD, ABPP",
+      "position": "Senior Director of Clinical Services",
+      "organization": "Home Base, a Red Sox Foundation & MGH Program",
+      "bio": "A retired U.S. Navy operational psychologist and former SOF‐embedded clinician, Dr. Bonvie served 21 years on active duty supporting NSW and JSOC forces. He now runs clinical programs for Home Base, treating veterans with TBI and PTS. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "name": "Dr. Joe Register",
+      "position": "Vice President for Research & Development, Tactical Systems",
+      "organization": "AEVEX Aerospace",
+      "bio": "Dr. Register leads AEVEX’s unmanned-systems and ISR R&D portfolio after two decades in defense electronics, overseeing rapid prototyping for SOF‐peculiar sensors and small-UAS payloads. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "name": "Rev. Dr. John Edgar Caterson",
+      "position": "Executive Subject-Matter Expert & SOCH Program Director",
+      "organization": "Joint Special Operations University (USSOCOM)",
+      "bio": "A Navy chaplain turned scholar-practitioner, Dr. Caterson directs SOCOM’s Spiritual Care and Community Health (SOCH) effort, focusing on moral injury and resiliency for SOF families. :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "name": "Dr. Keenan Yoho",
+      "position": "Vice President & Board Member",
+      "organization": "Global SOF Foundation",
+      "bio": "Operations-management professor and former Naval Postgraduate School faculty member, Dr. Yoho advises on defense-supply-chain risk and teaches senior SOF leaders systems thinking. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "name": "Dr. Lyla Kohistany",
+      "position": "Chief Executive Officer & Founder",
+      "organization": "Honor the Promise",
+      "bio": "An Afghan-American former Naval intelligence officer, Dr. Kohistany co-founded Honor the Promise to support Afghan SOF partners; she is a frequent CNN contributor on South-Asia security. :contentReference[oaicite:4]{index=4}"
+    },
+    {
+      "name": "Dr. Sarah Anderson, PsyD, CMPC",
+      "position": "Program Director, ASCENT Human-Performance Initiative",
+      "organization": "U.S. Special Operations Command (contract)",
+      "bio": "A certified mental-performance consultant, Dr. Anderson designs cognitive and resilience training for SOF aircrews and has advised USAF Pararescue and AFSOC since 2014. :contentReference[oaicite:5]{index=5}"
+    },
+    {
+      "name": "Dr. Seth G. Jones",
+      "position": "Harold Brown Chair & Director, Warfare, Irregular Threats, and Terrorism Program",
+      "organization": "Center for Strategic & International Studies (CSIS)",
+      "bio": "Author of *Three Dangerous Men* and former RAND Afghan field-researcher, Dr. Jones is one of Washington’s leading voices on SOF strategy, irregular warfare, and great-power competition. :contentReference[oaicite:6]{index=6}"
+    },
+    {
+      "name": "Dr. Steven A. Smith",
+      "position": "Program Executive Officer, Rotary Wing (PEO-RW)",
+      "organization": "U.S. Special Operations Command",
+      "bio": "An aerospace engineer turned SES, Dr. Smith manages the $4 B SOF rotary-wing fleet—including MH-47G and MH-60M modernization—and spoke at SOF Week on post-FARA options. :contentReference[oaicite:7]{index=7}"
+    },
+    {
+      "name": "Dr. Todd C. Helmus",
+      "position": "Senior Behavioral Scientist",
+      "organization": "RAND Corporation",
+      "bio": "Dr. Helmus studies online disinformation, extremism, and psychological operations; he led RAND’s influential reports on counter-ISIS messaging and Russian ‘firehose of falsehoods’. :contentReference[oaicite:8]{index=8}"
+    },
+    {
+      "name": "1st Sergeant (Ret.) Valerie Lavin",
+      "position": "Founder & CEO",
+      "organization": "Luminary Global",
+      "bio": "A retired Army signal First Sergeant and Bronze-Star recipient, Lavin launched Luminary Global to supply tactical medical gear and mentors Tampa-area veteran entrepreneurs. :contentReference[oaicite:9]{index=9}"
+    },
+    {
+      "name": "General Stephen N. Whiting",
+      "position": "Commander",
+      "organization": "U.S. Space Command",
+      "bio": "Gen. Whiting leads U.S. and allied space-domain operations. A career space operator, he previously commanded Space Operations Command and pioneered integration of ISR and cyber for Space Force warfighting. :contentReference[oaicite:10]{index=10}"
+    },
+    {
+      "name": "General (Ret.) Laura J. Richardson",
+      "position": "Commander",
+      "organization": "U.S. Southern Command (retired 2024)",
+      "bio": "Gen. Richardson—an AH-64 pilot and the Army’s first woman to command an Army component—oversaw all U.S. security cooperation in Latin America and the Caribbean until her 2024 retirement. :contentReference[oaicite:11]{index=11}"
+    },
+    {
+      "name": "General Bryan P. Fenton",
+      "position": "Commander",
+      "organization": "U.S. Special Operations Command",
+      "bio": "The 13th SOCOM commander, Gen. Fenton previously led Joint Special Operations Command and was Deputy Commander, INDOPACOM; he is a career Special Forces officer with combat in Iraq and Afghanistan. :contentReference[oaicite:12]{index=12}"
+    },
+    {
+      "name": "General Dan “Razin” Caine",
+      "position": "Chairman, Joint Chiefs of Staff",
+      "organization": "U.S. Department of Defense",
+      "bio": "Confirmed in April 2025, Gen. Caine is a former Air Force fighter pilot and CIA Associate Director for Military Affairs; he returned from retirement to assume the Pentagon’s top uniformed post. :contentReference[oaicite:13]{index=13}"
+    },
+    {
+      "name": "General Javier Iturriaga del Campo",
+      "position": "Commander-in-Chief",
+      "organization": "Chilean Army",
+      "bio": "Gen. Iturriaga commands Chile’s 86,000-soldier ground force and has led UN peacekeeping contingents in Bosnia and Haiti; he assumed the top post in 2022. :contentReference[oaicite:14]{index=14}"
+    },
+    {
+      "name": "General Raimundas Vaikšnoras",
+      "position": "Chief of Defence",
+      "organization": "Republic of Lithuania",
+      "bio": "Appointed in 2024, Gen. Vaikšnoras oversees Lithuania’s armed forces and has championed SOF and territorial-defense expansion in response to Russian aggression. :contentReference[oaicite:15]{index=15}"
+    },
+    {
+      "name": "General Songwit Noonpakdee",
+      "position": "Deputy Chief of Defence Forces",
+      "organization": "Royal Thai Armed Forces",
+      "bio": "A career infantry officer and King’s Guard brigade commander, Gen. Songwit now steers joint-force modernization and international exercises for Thailand’s defense headquarters. :contentReference[oaicite:16]{index=16}"
+    },
+    {
+      "name": "His Majesty King Abdullah II ibn Al Hussein",
+      "position": "King",
+      "organization": "Hashemite Kingdom of Jordan",
+      "bio": "Reigning since 1999, King Abdullah II is a Sandhurst-trained former commander of Jordan’s SOF; known for moderating Middle-East diplomacy, he authored *Our Last Best Chance* on regional peace. :contentReference[oaicite:17]{index=17}"
+    },
+    {
+      "name": "Lieutenant Colonel Cameron Keogh",
+      "position": "Experimental Test Pilot & Aviation Program Manager",
+      "organization": "U.S. Army DEVCOM Aviation & Missile Center",
+      "bio": "LtCol Keogh, an Army flight-test engineer, leads rotary-wing developmental testing and has logged 2,000+ hours in AH-64, UH-60 and unmanned platforms. :contentReference[oaicite:18]{index=18}"
+    },
+    {
+      "name": "Lieutenant Colonel Jason Hasbrouck",
+      "position": "Deputy Division Chief, Integrated Resiliency",
+      "organization": "U.S. Air Force",
+      "bio": "LtCol Hasbrouck spearheads five resilience and human-performance programs for Air Combat Command after squadron command tours in security forces and personnel recovery. :contentReference[oaicite:19]{index=19}"
+    },
+    {
+      "name": "Lieutenant Colonel John M. Williams II",
+      "position": "Army Acquisition Officer (Product Manager, Synthetic Training Environment)",
+      "organization": "U.S. Army Acquisition Corps",
+      "bio": "With 20 years’ service, LTC Williams has led combat-system fielding in Iraq and Afghanistan, taught chemistry at West Point, and now manages virtual-reality training capabilities for the Synthetic Training Environment portfolio. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "name": "Lieutenant Colonel Lev Mazeres",
+      "position": "Product Manager, Special Operations Forces Digital Infrastructure",
+      "organization": "U.S. Special Operations Command",
+      "bio": "An Army acquisition officer embedded at USSOCOM, LTC Mazeres oversees cloud-platform and DevSecOps efforts after prior infantry and Ranger Regiment assignments. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "name": "Lieutenant Colonel Thomas Brewington",
+      "position": "Product Director, Scout/Attack Aviation",
+      "organization": "Program Executive Office Aviation, U.S. Army",
+      "bio": "LTC Brewington leads development of next-generation manned / unmanned scout aircraft and payloads for Army and SOF aviation—work that earned him rapid-acquisition accolades on promotion to lieutenant colonel. :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "name": "Commander Luca Mec(a)",
+      "position": "Head, Special-Forces Section",
+      "organization": "Italian Navy (Comando Subacquei e Incursori)",
+      "bio": "Cmdr. Meca commands maritime special-warfare detachments and has deployed worldwide with COMSUBIN; he is a qualified combat diver and parachutist. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "name": "Lieutenant Commander Roxana Alexandru",
+      "position": "Staff Officer, Naval Operations & Lecturer",
+      "organization": "Romanian Naval Forces / National Defence University “Carol I”",
+      "bio": "LCDR Alexandru researches anti-submarine warfare doctrine and has presented at NATO maritime-security symposia on future under-sea operating concepts. :contentReference[oaicite:4]{index=4}"
+    },
+    {
+      "name": "Lieutenant General (Ret.) Giovanni K. Tuck",
+      "position": "Former Director for Logistics (J4)",
+      "organization": "Joint Staff, U.S. Department of Defense",
+      "bio": "A command pilot with 4,800 flight hours, Lt Gen Tuck’s 34-year Air Force career spanned command of 18th Air Force, DLA-Energy, and J4 oversight of global logistics. :contentReference[oaicite:5]{index=5}"
+    },
+    {
+      "name": "Lieutenant General Dimitri Henry",
+      "position": "Director for Intelligence (J2)",
+      "organization": "Joint Staff, U.S. Marine Corps",
+      "bio": "Enlisting as a Marine in 1981, Lt Gen Henry rose through signals-intelligence commands to become the Joint Staff’s senior intelligence officer in 2022. :contentReference[oaicite:6]{index=6}"
+    },
+    {
+      "name": "Lieutenant General Joshua M. Rudd",
+      "position": "Deputy Commander",
+      "organization": "U.S. Indo-Pacific Command",
+      "bio": "A career infantry and Special Forces officer, Lt Gen Rudd previously led the 25th Infantry Division and Special Operations Command–Pacific. :contentReference[oaicite:7]{index=7}"
+    },
+    {
+      "name": "Lieutenant General Richard E. Angle",
+      "position": "Commander",
+      "organization": "NATO Allied Special Operations Forces Command",
+      "bio": "Former commander of U.S. Army Special Operations Command, Lt Gen Angle now directs allied SOF integration and training for NATO. :contentReference[oaicite:8]{index=8}"
+    },
+    {
+      "name": "Major General Jason C. Slider",
+      "position": "Commanding General",
+      "organization": "U.S. Army John F. Kennedy Special Warfare Center and School",
+      "bio": "MG Slider leads the Army’s schoolhouse for Green Berets, Civil Affairs, and Psychological Operations after tours in 1st SFG(A) and Special Operations Joint Task Forces. :contentReference[oaicite:9]{index=9}"
+    },
+    {
+      "name": "Master Sergeant (Ret.) Mike Clark",
+      "position": "SOF Advocate & Adaptive-Athletics Coach",
+      "organization": "Green Beret Foundation",
+      "bio": "Retiring in 2014 after 20 years with 1st Group, MSG Clark now mentors wounded operators through adaptive sports and resiliency programs. :contentReference[oaicite:10]{index=10}"
+    },
+    {
+      "name": "Master Sergeant Earl D. Plumlee",
+      "position": "Senior Weapons Sergeant",
+      "organization": "U.S. Army Special Forces",
+      "bio": "Awarded the Medal of Honor in 2021 for repelling a complex Taliban attack on Forward Operating Base Ghazni, Afghanistan, in 2013. :contentReference[oaicite:11]{index=11}"
+    },
+    {
+      "name": "Master Sergeant Matthew O. Williams",
+      "position": "Operations Sergeant, 3rd Special Forces Group",
+      "organization": "U.S. Army Special Forces",
+      "bio": "Medal of Honor recipient for actions during the 2008 Battle of Shok Valley, Afghanistan, where he led Afghan commandos under intense fire. :contentReference[oaicite:12]{index=12}"
+    },
+    {
+      "name": "Mayor Jane Castor",
+      "position": "Mayor (59th)",
+      "organization": "City of Tampa, Florida",
+      "bio": "Former Tampa Police Chief and the city’s first woman mayor, Castor champions tech-sector growth—including hosting SOF Week—alongside resilience and transit initiatives. :contentReference[oaicite:13]{index=13}"
+    },
+    {
+      "name": "Mr. Akash Jain",
+      "position": "President, U.S. Government & Chief Technology Officer",
+      "organization": "Palantir Technologies",
+      "bio": "Jain leads Palantir’s U.S. federal portfolio, spearheading AI/ML solutions for defense and intelligence clients after a decade building Palantir Gotham. :contentReference[oaicite:14]{index=14}"
+    },
+    {
+      "name": "Mr. Alex Clark",
+      "position": "Senior Technical Director",
+      "organization": "AV (formerly AeroVironment)",
+      "bio": "Clark heads maritime-autonomy R&D; at SOF Week 2025 he unveiled Kraken-3, a USV integrating AV’s HaloSwarm and Switchblade loitering-munitions payloads. :contentReference[oaicite:15]{index=15}"
+    },
+    {
+      "name": "Mr. Alex Flick",
+      "position": "Founder & Director",
+      "organization": "Gathering Contemporary Art Gallery (London / Ibiza)",
+      "bio": "Heir to a noted art-collecting family, Flick curates emerging artists and has expanded Gathering from London to exhibitions across Europe and the U.S. :contentReference[oaicite:16]{index=16}"
+    },
+    {
+      "name": "Mr. Andrew Howard",
+      "position": "Chief Executive Officer",
+      "organization": "Kudelski Security",
+      "bio": "A former head of Goldman Sachs GS Sustain research and U.S. Army cyber officer, Howard now scales Kudelski’s zero-trust and managed-detection services globally. :contentReference[oaicite:17]{index=17}"
+    },
+    {
+      "name": "Mr. Arthur Coon",
+      "position": "Director, Enterprise Information Systems",
+      "organization": "SOF AT&L, U.S. Special Operations Command",
+      "bio": "Coon—an acquisition PM with 25 years in C4ISR—manages SOF’s garrison-network and MISO systems lifecycle, integrating zero-trust and AI-enabled cybersecurity. :contentReference[oaicite:18]{index=18}"
+    },
+    {
+      "name": "Mr. Austin Moore",
+      "position": "Chief Executive Officer",
+      "organization": "Special Operators Transition Foundation",
+      "bio": "A retired Air Force special-operations pilot and combat-aviation advisor, Moore now leads a nonprofit that mentors SOF veterans into high-tech and executive careers. :contentReference[oaicite:19]{index=19}"
+    },
+    {
+      "name": "Mr. Austin Branch",
+      "position": "Co-Founder & Board Member",
+      "organization": "Information Professionals Association",
+      "bio": "Retired U.S. Army Colonel who created SOCOM’s first J39 (Information Operations) directorate and later served as Senior Advisor for Information at the National Counter-Terrorism Center; today he champions cognitive-security R&D and policy through the IPA think-tank. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "name": "Mr. Brian Shipley",
+      "position": "Director, Department of the Navy SBIR/STTR Program",
+      "organization": "Office of Naval Research",
+      "bio": "A 30-year Navy civilian and former comptroller for shipbuilding accounts, Shipley now steers $400 M in small-business innovation funding across Naval research, engineering and acquisition portfolios. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "name": "Mr. Brian Murphy",
+      "position": "Former Acting Under Secretary for Intelligence & Analysis",
+      "organization": "U.S. Department of Homeland Security",
+      "bio": "Marine Corps veteran and onetime FBI Special Agent; Murphy led DHS I&A (2018-20) and later became a noted whistle-blower on election-security and extremism-intel politicization. :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "name": "Mr. Chad Raaymakers",
+      "position": "Program Manager, Software Acquisition",
+      "organization": "Program Executive Office SOF Digital Applications, USSOCOM",
+      "bio": "A former Air Force intel officer turned acquisition lead, Raaymakers guides agile-software projects that push data-fusion and AI/ML tools to SOF operators at the edge. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "name": "Mr. Chris Wilson",
+      "position": "Acquisition Program Manager",
+      "organization": "U.S. Air Force Life-Cycle Management Center",
+      "bio": "Wilson manages multi-phase Air Force modernization contracts and previously supported SOF aviation sensor upgrades while completing an MBA at the University of Tampa. :contentReference[oaicite:4]{index=4}"
+    },
+    {
+      "name": "Mr. Colby Jenkins",
+      "position": "Acting Assistant Secretary of Defense for SO/LIC",
+      "organization": "U.S. Department of Defense",
+      "bio": "Green Beret combat veteran (Afghanistan, Iraq) and former Google strategist; now the Pentagon’s senior civilian overseeing special operations policy, irregular warfare and counter-terrorism coordination. :contentReference[oaicite:5]{index=5}"
+    },
+    {
+      "name": "Mr. Dan Rosen",
+      "position": "Co-Founder & Partner",
+      "organization": "Rhodium Group",
+      "bio": "China-economy specialist and former White House National Economic Council director for international finance; Rosen advises governments and Fortune 100 firms on Asia trade, technology and capital-market risk. :contentReference[oaicite:6]{index=6}"
+    },
+    {
+      "name": "Mr. Daniel Carroll",
+      "position": "Technical Director (SES), Program Executive Office Fixed Wing",
+      "organization": "U.S. Special Operations Command",
+      "bio": "Senior aerospace engineer who has shepherded AC-130J and OA-1K Sky Warden development; Carroll also led the Rapid ISR Office that fielded combat sensors to AFSOC within 12 months. :contentReference[oaicite:7]{index=7}"
+    },
+    {
+      "name": "Mr. David Breede",
+      "position": "Program Executive Officer, Tactical Information Systems (TIS)",
+      "organization": "U.S. Special Operations Command",
+      "bio": "Breede directs SOF-peculiar sensor, SIGINT and tactical comms programs spanning Tag-Track-Locate kits to Group 1-3 UAS, managing a multibillion-dollar portfolio. :contentReference[oaicite:8]{index=8}"
+    },
+    {
+      "name": "Mr. Gabriel Ramos",
+      "position": "Deputy Director, Operations Division",
+      "organization": "Irregular Warfare Technical Support Directorate (IWTSD), OASD SO/LIC",
+      "bio": "Ramos oversees 10 RDT&E subgroups that prototype counter-terrorism and force-protection technologies for U.S. and allied SOF, expediting 100+ projects yearly. :contentReference[oaicite:9]{index=9}"
+    },
+    {
+      "name": "Mr. Garth Arevalo",
+      "position": "Chief Executive Officer",
+      "organization": "Lukos LLC",
+      "bio": "Retired Army Special Forces NCO who grew Lukos from a two-person startup into a prime contractor delivering training, medical and cyber services at USSOCOM and DHA; NCMA Certified Federal Contracts Manager. :contentReference[oaicite:10]{index=10}"
+    },
+    {
+      "name": "Mr. Glen Cullen",
+      "position": "Program Manager, Acquisition Resources",
+      "organization": "SOF AT&L / SOFWERX, U.S. Special Operations Command",
+      "bio": "Cullen bridges industry and SOF by running SOFWERX tech challenges and managing prize-competition authorities that have transitioned 70+ prototypes to Programs of Record. :contentReference[oaicite:11]{index=11}"
+    },
+    {
+      "name": "Mr. Howard Strahan",
+      "position": "Deputy Director, Science & Technology Directorate",
+      "organization": "U.S. Special Operations Command",
+      "bio": "Career engineer who aligns S&T thrusts—Warfighter Performance, Scalable Precision Effects, Multi-Domain C2—with PEO transition partners and oversees the annual SOF STEM outreach initiatives. :contentReference[oaicite:12]{index=12}"
+    },
+    {
+      "name": "Mr. Jeff Pottinger",
+      "position": "Co-Founder",
+      "organization": "ReLAUNCH Advisors",
+      "bio": "Navy SEAL officer (Ret.) who co-developed the Honor Foundation’s transition curriculum; as a business coach he now accelerates veteran-led startups into the federal marketplace. :contentReference[oaicite:13]{index=13}"
+    },
+    {
+      "name": "Mr. Jeffery “JD” Barnes",
+      "position": "Chief, International Operations",
+      "organization": "SOF AT&L, U.S. Special Operations Command",
+      "bio": "Barnes runs USSOCOM’s Foreign Comparative Test and R&D partnering offices, coordinating cooperative projects with 30+ allied SOF ministries each year. :contentReference[oaicite:14]{index=14}"
+    },
+    {
+      "name": "Mr. Jeffrey J. Young",
+      "position": "Director",
+      "organization": "Franklin County (OH) Emergency Management & Homeland Security",
+      "bio": "Former Coast Guard reserve officer and Ohio EMA branch chief; Young now leads disaster-preparedness, cyber-resilience and critical-infrastructure protection for the Columbus metro region. :contentReference[oaicite:15]{index=15}"
+    },
+    {
+      "name": "Mr. Joel J. Fox",
+      "position": "Program Manager – Expeditionary Support, PEO SOFSA",
+      "organization": "U.S. Special Operations Command",
+      "bio": "Fox directs global contractor-logistics solutions for SOF air, ground and maritime systems, fielding depot-level teams on five continents. :contentReference[oaicite:16]{index=16}"
+    },
+    {
+      "name": "Mr. John H. Ridge CBE",
+      "position": "Chief Adoption Officer",
+      "organization": "NATO Innovation Fund",
+      "bio": "Former British Army Brigadier (Royal Engineers) who ran 8 Engineer Brigade in Afghanistan; now leads dual-use tech adoption across NATO’s €1 billion venture fund. :contentReference[oaicite:17]{index=17}"
+    },
+    {
+      "name": "Mr. John Burnham",
+      "position": "CAPT, USN (Ret.) & Former Deputy Assistant Secretary of Defense (Homeland Defense Integration)",
+      "organization": "Global SOF Advisory Board",
+      "bio": "Naval aviator turned policy leader; in OSD he integrated DSCA and homeland-defense plans, later joining the Global SOF Foundation board and consulting on resilience strategy. :contentReference[oaicite:18]{index=18}"
+    },
+    {
+      "name": "Mr. Jonas Kjellèn",
+      "position": "Senior Analyst, Russia & Eurasia Studies",
+      "organization": "Swedish Defence Research Agency (FOI)",
+      "bio": "Recognized expert on Russian Baltic Fleet modernization and electronic warfare; frequently briefs NATO and Nordic defense ministries on maritime force posture. :contentReference[oaicite:19]{index=19}"
+    },
+    {
+      "name": "Mr. Kareem Sykes",
+      "position": "Industry & Engagement Program Manager",
+      "organization": "Project Spectrum (DoD OSBP)",
+      "description": "Leads the Pentagon’s free cybersecurity-readiness platform for small businesses, running CMMC training and outreach across the defense industrial base."
+    },
+    {
+      "name": "Mr. Kelly Ammerman",
+      "position": "unknown",
+      "organization": "unknown",
+      "description": "Public details not yet released; listed as a SOF-Week registrant and small-business panelist."
+    },
+    {
+      "name": "Mr. Kennan Hedrick",
+      "position": "unknown",
+      "organization": "unknown",
+      "description": "SOCOM industry-day speaker on logistics digital-thread standards; no authoritative bio posted."
+    },
+    {
+      "name": "Mr. Kenneth Raimondi",
+      "position": "AI/ML Program Manager",
+      "organization": "NASA’s Space Technology Mission Directorate",
+      "description": "Former USAF intelligence officer now leading NASA’s Small Business Innovative Research (SBIR) AI portfolio."
+    },
+    {
+      "name": "Mr. Kit Werremeyer",
+      "position": "Chief Executive Officer",
+      "organization": "Talon Aerolytics",
+      "description": "Army veteran who founded Talon’s AI-enabled drone-inspection platform for telecom and defense towers."
+    },
+    {
+      "name": "Mr. Larry Royer, LCSW, BCD",
+      "position": "Clinical Social Worker (Military & Family Life Counseling Program)",
+      "organization": "Magellan Federal / DoD",
+      "description": "Board-certified clinician with 25 years supporting Special Forces groups and USSOCOM POTFF initiatives."
+    },
+    {
+      "name": "Mr. Luis Martinez",
+      "position": "Senior Pentagon Reporter",
+      "organization": "ABC News",
+      "description": "Broadcast journalist covering defense policy and overseas operations since 2006; embeds regularly with SOF units."
+    },
+    {
+      "name": "Mr. Matt Higgins",
+      "position": "Co-Founder & CEO",
+      "organization": "RSE Ventures",
+      "description": "Investor, bestselling author of *Burn the Boats*, former Miami Dolphins EVP and ‘Shark Tank’ guest judge."
+    },
+    {
+      "name": "Mr. Matt Stevens",
+      "position": "Chief Executive Officer",
+      "organization": "The Honor Foundation",
+      "description": "Retired SEAL officer who now runs the nation’s largest SOF transition institute."
+    },
+    {
+      "name": "Mr. Michael Quinn",
+      "position": "Founder & Chief Growth Officer",
+      "organization": "Tenova LLC",
+      "description": "LinkedIn Top Voice and retired Sergeant Major who coaches thousands of veterans on digital networking."
+    },
+    {
+      "name": "Mr. Noel Hike",
+      "position": "Veterans Benefits Administration Liaison",
+      "organization": "U.S. Special Operations Command",
+      "description": "Coordinates all VBA disability-claim support for the SOF community, focusing on combat-related special compensation."
+    },
+    {
+      "name": "Mr. Paul Kylander",
+      "position": "Deputy Director, Warrior Care Program",
+      "organization": "U.S. Special Operations Command",
+      "description": "Oversees casualty-care and recovery services for wounded, ill and injured SOF personnel worldwide."
+    },
+    {
+      "name": "Mr. Pete Greany",
+      "position": "Program Executive Officer, PEO Services",
+      "organization": "SOF AT&L, U.S. Special Operations Command",
+      "description": "Manages $3 B in professional-services contracts spanning subject-matter expertise, IT, logistics and medical support."
+    },
+    {
+      "name": "Mr. Peter Bergen",
+      "position": "Vice President, Global Studies & Fellows; National Security Analyst",
+      "organization": "New America / CNN",
+      "description": "Journalist who interviewed Osama bin Laden in 1997 and author of *Manhunt* and *The Rise and Fall of Osama bin Laden*."
+    },
+    {
+      "name": "Mr. Raymond McPeek",
+      "position": "Chairman of the Board",
+      "organization": "Patriot3 Inc.",
+      "description": "Retired Brigadier General (USA) and former Deputy Commander, U.S. Army Special Operations Command; now leads tactical-equipment firm."
+    },
+    {
+      "name": "Mr. Stu Bradin",
+      "position": "President & Chief Executive Officer",
+      "organization": "Global SOF Foundation",
+      "description": "Retired Army Special Forces colonel who founded GSOF after directing NATO SOF training initiatives."
+    },
+    {
+      "name": "Mr. Thomas Tull",
+      "position": "Founder, Tulco LLC; Minority Owner",
+      "organization": "Pittsburgh Steelers",
+      "description": "Tech investor and producer of *The Dark Knight* trilogy; chairs Defense Innovation Board task force on dual-use manufacturing."
+    },
+    {
+      "name": "Mr. Tony Mayne",
+      "position": "Founder & Executive Director",
+      "organization": "Ranger For Life Foundation",
+      "description": "Former 75th Ranger Regiment Sergeant Major who now provides career bridges and mental-health resources to Rangers and families."
+    },
+    {
+      "name": "Mr. Travis Owens",
+      "position": "Chief, Visual Multimedia Support Division",
+      "organization": "U.S. Special Operations Command",
+      "description": "Heads SOCOM branding and multimedia production, including documentary films and digital-asset management."
+    },
+    {
+      "name": "Mr. Troy Hepp",
+      "position": "Director, Engineering & Technology",
+      "organization": "General Atomics Electromagnetic Systems",
+      "description": "Leads GA-EMS directed-energy and rail-gun R&D portfolio supporting SOCOM rapid-strike initiatives."
+    },
+    {
+      "name": "Mr. William \"Bill\" Innes",
+      "position": "Deputy Director, Acquisition",
+      "organization": "SOF AT&L, U.S. Special Operations Command",
+      "description": "Senior civilian overseeing all SOCOM acquisition, technology and logistics programs."
+    },
+    {
+      "name": "Mr. Zeke Topolosky",
+      "position": "Chief Data Officer",
+      "organization": "Air Force Special Operations Command",
+      "description": "Former SOCOM data scientist now driving enterprise AI/ML and cloud adoption across AFSOC."
+    },
+    {
+      "name": "Ms. Alison Messick",
+      "position": "Chief Programs Officer",
+      "organization": "Navy SEAL Foundation",
+      "description": "Directs global scholarships, tragedy-assistance and resilience programs for Naval Special Warfare families."
+    },
+    {
+      "name": "Ms. Ashley Farrier",
+      "position": "Director, Office of Small Business Programs",
+      "organization": "U.S. Special Operations Command",
+      "description": "Expands small-business participation and mentors non-traditional vendors entering the SOF marketplace."
+    },
+    {
+      "name": "Ms. Catherine Herridge",
+      "position": "Investigative Journalist",
+      "organization": "Atlas Media (formerly CBS News)",
+      "description": "Emmy-winning national-security correspondent known for front-line coverage of terrorism and veterans’ issues."
+    },
+    {
+      "name": "Ms. Clementine G. Starling-Daniels",
+      "position": "Director, Forward Defense",
+      "organization": "Atlantic Council",
+      "description": "Strategist advising NATO and DoD on great-power competition, advanced technology and trans-Atlantic defense policy."
+    },
+    {
+      "name": "Ms. Courtney Robinson",
+      "position": "Anchor & Investigative Reporter",
+      "organization": "10 Tampa Bay (WTSP)",
+      "description": "SOF Week emcee and journalist focused on military and veteran affairs in Florida."
+    },
+    {
+      "name": "Ms. Emily Harding",
+      "position": "Director of Intelligence, National Security Program",
+      "organization": "CSIS",
+      "description": "Former CIA analyst and Senate Intelligence Committee deputy director overseeing studies on hybrid threats."
+    },
+    {
+      "name": "Ms. Heidi Grant",
+      "position": "Former Director",
+      "organization": "Defense Security Cooperation Agency",
+      "description": "First civilian head of DSCA, managing $190 B in foreign military sales and training programs."
+    },
+    {
+      "name": "Ms. Jennifer Zientz, MS, CCC-SLP",
+      "position": "Director of Programs & Head of Clinical Services",
+      "organization": "Center for BrainHealth, UT Dallas",
+      "description": "Leads cognitive-performance research and veteran-brain-injury initiatives."
+    },
+    {
+      "name": "Ms. Jodi Burns",
+      "position": "Chief Executive Officer",
+      "organization": "Special Forces Charitable Trust",
+      "description": "Runs national nonprofit providing family support and scholarships for Green Berets."
+    },
+    {
+      "name": "Ms. Juliet Funt",
+      "position": "Founder & CEO",
+      "organization": "Juliet Funt Group",
+      "description": "Best-selling author of *A Minute to Think* who advises corporations and military audiences on strategic white space."
+    },
+    {
+      "name": "Ms. Katherine Boyle",
+      "position": "General Partner",
+      "organization": "Andreessen Horowitz American Dynamism Fund",
+      "description": "VC investing in defense, aerospace and industrial-tech startups critical to national security."
+    },
+    {
+      "name": "Ms. Kerry Irvin",
+      "position": "Chief Executive Officer",
+      "organization": "Operation Healing Forces",
+      "description": "Former AFSOC spouse and resilience trainer who now expands OHF’s therapeutic-retreat programs."
+    },
+    {
+      "name": "Rev. Dr. Khalia J. Williams",
+      "position": "Associate Dean of Worship & Spiritual Formation",
+      "organization": "Candler School of Theology, Emory University",
+      "description": "Theologian and liturgist specializing in spiritual resilience and womanist worship studies."
+    },
+    {
+      "name": "Ms. Leslie Babich",
+      "position": "Director",
+      "organization": "SOFWERX",
+      "description": "Retired AFSOC MC-130 pilot leading SOCOM’s premier open-innovation hub."
+    },
+    {
+      "name": "Ms. Liliana Roman",
+      "position": "Deputy Director, Enterprise Information Systems",
+      "organization": "SOF AT&L, U.S. Special Operations Command",
+      "description": "Oversees lifecycle management of garrison networks and MISO systems."
+    },
+    {
+      "name": "Ms. Lisa R. Sanders",
+      "position": "Director, Science & Technology Directorate",
+      "organization": "SOF AT&L, U.S. Special Operations Command",
+      "description": "Thirty-year federal R&D leader who pioneered SOCOM’s rapid-prototyping pipeline."
+    },
+    {
+      "name": "Ms. Maria Cherjovsky",
+      "position": "Chief Executive Officer",
+      "organization": "Camaraderie Foundation",
+      "description": "Social-impact entrepreneur providing mental-health counseling to veterans and families."
+    },
+    {
+      "name": "Ms. Meaghan Keeler",
+      "position": "Chief Operating Officer",
+      "organization": "Global SOF Foundation",
+      "description": "Co-founded GSOF and manages its 7000-member events, policy and partner network."
+    },
+    {
+      "name": "Ms. Melissa Johnson",
+      "position": "Acquisition Executive",
+      "organization": "U.S. Special Operations Command",
+      "description": "SES-2 official serving as USSOCOM’s top civilian in charge of SOF AT&L."
+    },
+    {
+      "name": "Ms. Robin Burke",
+      "position": "SBIR/STTR Program Manager",
+      "organization": "U.S. Special Operations Command",
+      "description": "Runs SOCOM’s small-business innovation portfolio and coordinates cross-component Tech Bullets."
+    },
+    {
+      "name": "Ms. Rosalinda Vasquez Maury",
+      "position": "Director, Applied Research & Analytics",
+      "organization": "Institute for Veterans & Military Families, Syracuse University",
+      "description": "Leads evidence-based studies on veteran employment and entrepreneurship."
+    },
+    {
+      "name": "Ms. Sarah P. Roder, CFEI",
+      "position": "Director of Partnerships & Member Engagement",
+      "organization": "AAFMAA",
+      "description": "Certified financial-education instructor guiding SOF families on transition finances."
+    },
+    {
+      "name": "Ms. Virginia McCabe",
+      "position": "Program Manager, Warrior Care Program",
+      "organization": "U.S. Special Operations Command",
+      "description": "Coordinates recovery-care services for wounded SOF personnel and their caregivers."
+    },
+    {
+      "name": "Petty Officer First Class (Ret.) Mike Kipp",
+      "position": "Adaptive-Athletics Coach & Board Member",
+      "organization": "Salute America’s Heroes",
+      "description": "Former Navy EOD tech wounded in Iraq; now mentors disabled veterans through para-sports."
+    },
+    {
+      "name": "Rear Admiral Milton \"Jamie\" Sands III",
+      "position": "Commander",
+      "organization": "Naval Special Warfare Command",
+      "description": "SEAL officer overseeing all U.S. Navy SEALs and Special Boat Teams."
+    },
+    {
+      "name": "Reverend Christopher Shimmen RN",
+      "position": "Chaplain & Critical-Care Nurse",
+      "organization": "SSAFA (UK armed-forces charity)",
+      "description": "Provides spiritual and medical support to British SOF veterans and families."
+    },
+    {
+      "name": "Senator Nicolae Ionel Ciucă",
+      "position": "President of the Senate (Former Prime Minister)",
+      "organization": "Government of Romania",
+      "description": "Retired Romanian Land Forces general who commanded coalition troops in Iraq before entering politics."
+    },
+    {
+      "name": "Sergeant Major (Ret.) Matt Parrish",
+      "position": "Executive Director",
+      "organization": "Task Force Dagger Foundation",
+      "description": "Former Green Beret and host of USSOCOM’s official podcast *SOFcast*; leads family-support charity."
+    },
+    {
+      "name": "Sergeant Major (Ret.) Mike Vining",
+      "position": "Founding Member",
+      "organization": "1st SFOD-D (Delta Force)",
+      "description": "EOD legend and first enlisted MOH nominee in Delta; now lectures on explosive-hazard mitigation."
+    },
+    {
+      "name": "Sergeant Major Adam Thompson",
+      "position": "Senior Enlisted Leader, Warrior Care Program",
+      "organization": "U.S. Special Operations Command",
+      "description": "Advises WCP leadership on non-medical care and transition services for SOF wounded."
+    },
+    {
+      "name": "Sergeant Major Christopher M. McNamara",
+      "position": "Command Sergeant Major",
+      "organization": "1st Special Forces Command (Airborne)",
+      "description": "Senior enlisted leader for 22,000 Army SOF soldiers across seven Special Forces groups."
+    },
+    {
+      "name": "Sergeant Major Gregory Keller",
+      "position": "POTFF Senior Enlisted Leader",
+      "organization": "U.S. Special Operations Command",
+      "description": "Leads preservation-of-the-force and family programs from an enlisted-force perspective."
+    },
+    {
+      "name": "Sergeant Major Thomas P. Payne",
+      "position": "Army Recruiting Ambassador & Medal of Honor Recipient",
+      "organization": "U.S. Army",
+      "description": "Awarded the Medal of Honor for rescuing 75 hostages in Hawija, Iraq, 2015; continues public-service outreach."
+    },
+    {
+      "name": "The Honorable Pedro Arnulfo Sánchez Suárez",
+      "position": "Minister of Defense",
+      "organization": "Republic of Colombia",
+      "description": "Oversees Colombia’s armed forces and deepens U.S.–Colombia SOF partnerships."
+    },
+    {
+      "name": "The Honorable Pete Hegseth",
+      "position": "Secretary of Defense",
+      "organization": "U.S. Department of Defense",
+      "description": "Army veteran, author and former television host appointed as the 29th U.S. Secretary of Defense in 2025."
+    },
+    {
+      "name": "Vice Admiral Frank D. Whitworth",
+      "position": "Director",
+      "organization": "National Geospatial-Intelligence Agency",
+      "description": "Career naval intelligence officer commanding NGA’s 14,500-person global enterprise."
+    }
+  ]
+  
